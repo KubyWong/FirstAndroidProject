@@ -34,4 +34,20 @@
         android:layout_below="@+id/btn_show_tips"
         android:layout_centerHorizontal="true"
         />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="计算"
+        android:id="@+id/btn_culculate"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
+    <EditText
+        android:id="@+id/et_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btn_culculate"
+        />
+
 </RelativeLayout>

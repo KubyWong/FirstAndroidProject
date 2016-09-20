@@ -7,6 +7,7 @@ import com.example.kuby.myapplication.R;
 
 import org.xutils.x;
 
+
 public class Next1Activity extends Activity {
 
     @Override
